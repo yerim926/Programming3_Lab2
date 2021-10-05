@@ -1,0 +1,14 @@
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\bin\Debug\Problem2.exe.config
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\bin\Debug\Problem2.exe
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\bin\Debug\Problem2.pdb
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\MainWindow.g.cs
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\App.g.cs
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2_MarkupCompile.cache
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2_MarkupCompile.lref
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\MainWindow.baml
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2.g.resources
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2.Properties.Resources.resources
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2.csproj.GenerateResource.cache
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2.exe
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem2\obj\Debug\Problem2.pdb

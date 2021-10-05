@@ -1,0 +1,7 @@
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem1\bin\Debug\Problem1.exe.config
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem1\bin\Debug\Problem1.exe
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem1\bin\Debug\Problem1.pdb
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem1\obj\Debug\Problem1.csprojAssemblyReference.cache
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem1\obj\Debug\Problem1.csproj.CoreCompileInputs.cache
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem1\obj\Debug\Problem1.exe
+D:\Fall 2021\COMP212\301143325(Cho)_Lab2\lab2.package\lab2\Problem1\obj\Debug\Problem1.pdb
